@@ -1,1 +1,6 @@
-hello world java
+<<<<<<< HEAD
+hello world
+java
+=======
+Hello world
+>>>>>>> branch1
